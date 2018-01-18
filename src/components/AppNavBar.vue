@@ -27,7 +27,7 @@ header {
   width: 100%;
 }
 
-header span {
+header ul {
   display: block;
   position: relative;
   font-size: 20px;
@@ -35,12 +35,9 @@ header span {
   letter-spacing: .02em;
   font-weight: 400;
   box-sizing: border-box;
-  /*padding-top: 16px;*/
-}
-
-ul {
   list-style-type: none;
   padding: 0;
+  padding-top: 16px;
 }
 
 li {
@@ -53,9 +50,7 @@ a {
   text-decoration: none;
 }
 
-/* Change the color of links on hover */
 li:hover {
   background-color: #ddd;
-  color: black;
 }
 </style>
