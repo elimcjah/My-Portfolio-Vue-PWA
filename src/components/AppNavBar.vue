@@ -50,6 +50,6 @@ a {
 }
 
 li:hover {
-  background-color: #ddd;
+  background-color: #aaa;
 }
 </style>
