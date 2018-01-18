@@ -37,7 +37,6 @@ header ul {
   box-sizing: border-box;
   list-style-type: none;
   padding: 0;
-  padding-top: 16px;
 }
 
 li {
