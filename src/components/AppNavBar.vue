@@ -23,6 +23,8 @@ header {
   padding: 0 16px 0 24px;
   background-color: #35495E;
   color: #ffffff;
+  overflow: hidden;
+  width: 100%;
 }
 
 header span {
@@ -33,7 +35,7 @@ header span {
   letter-spacing: .02em;
   font-weight: 400;
   box-sizing: border-box;
-  padding-top: 16px;
+  /*padding-top: 16px;*/
 }
 
 ul {
@@ -48,5 +50,12 @@ li {
 
 a {
   color: #fff;
+  text-decoration: none;
+}
+
+/* Change the color of links on hover */
+li:hover {
+  background-color: #ddd;
+  color: black;
 }
 </style>

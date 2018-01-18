@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import AppNavBar from './components/AppNavBar';
+import AppNavBar from '@/components/AppNavBar';
 
 export default {
   name: 'app',
