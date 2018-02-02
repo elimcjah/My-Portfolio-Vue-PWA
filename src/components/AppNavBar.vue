@@ -24,7 +24,7 @@ header {
   background-color: #35495E;
   color: #ffffff;
   overflow: hidden;
-  width: 100%;
+  width: 10%;
 }
 
 header ul {
