@@ -4,7 +4,7 @@
     <ul>
       <li><a href="#/home" target="_self" rel="noopener">Home</a></li>
       <li><a href="#/about" target="_self" rel="noopener">About</a></li>
-      <li><a href="#/contact" target="_self" rel="noopener">Reach Me</a></li>
+      <li><a href="#/contact" target="_self" rel="noopener">Contact</a></li>
     </ul>
   </nav>
 </header>
